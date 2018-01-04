@@ -7,6 +7,6 @@ Normal text
 
 ** Bolded text **
 
-[Link to Data Science Masters](http://datasciencemasters.org)
+[Link to Data Science Masters](http://datasciencemasters.org target="_new")
 
 # End
