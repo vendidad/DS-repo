@@ -9,8 +9,8 @@ Normal text
 
 *Text in italics*
 
-[Link to Data Science Masters](http://datasciencemasters.org){:target="_blank"}
+[Link to Data Science Masters](http://datasciencemasters.org)
 
-<a href:"https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>
+<a href:"https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a>
 
 ***End***
