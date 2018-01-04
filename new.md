@@ -5,8 +5,12 @@ Normal text
 * Bullet 1
 * Bullet 2
 
-** Bolded text **
+**Bolded text**
 
-[Link to Data Science Masters](http://datasciencemasters.org target="_new")
+*Text in italics*
 
-# End
+[Link to Data Science Masters](http://datasciencemasters.org){:target="_blank"}
+
+<a href:"https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>
+
+***End***
