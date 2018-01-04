@@ -11,6 +11,6 @@ Normal text
 
 [Link to Data Science Masters](http://datasciencemasters.org)
 
-<a href:"https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a>
+<a href:"https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank"></a>
 
 ***End***
