@@ -1,0 +1,11 @@
+mkvirtualenv py1   # create virtual environment in Anaconda
+
+workon py1			# select virtual env. to work on
+
+django-admin startproject djangoproject
+
+
+
+
+
+
